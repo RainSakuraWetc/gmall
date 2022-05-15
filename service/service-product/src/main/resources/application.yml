@@ -1,0 +1,5 @@
+minio:
+  endpointUrl: http://IP:9000
+  accessKey: admin
+  secreKey: admin123456
+  bucketName: gmall
